@@ -1,2 +1,2 @@
 # codingCV
-a simple web page to show my current coding projects
+a simple web page to show a history of my personal and professional IT projects
